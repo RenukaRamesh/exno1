@@ -1,6 +1,7 @@
 # Exno:1
 Data Cleaning Process
-
+## Name  : RAMESH RENUKA
+## Regno : 212223240136
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
